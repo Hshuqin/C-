@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>QtRes/back.jpg</file>
+        <file>QtRes/password.jpg</file>
+        <file>QtRes/username.jpg</file>
+        <file>QtRes/btn(1).jpg</file>
+    </qresource>
+</RCC>
